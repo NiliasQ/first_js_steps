@@ -1,0 +1,23 @@
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+}
+
+h2 {
+    color: orange;
+    font-family: verdana;
+    font-size: 200%;
+}
+
+p {
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+}
+
+ul li {
+    color: green;
+    font-family: courier;
+    font-size: 160%;
+}
